@@ -24,18 +24,10 @@ Personal Portfolio Website built using HTML, CSS, and JavaScript.
 - Student Management System
 - To-Do List Web Application
 
-## Live Website
-
-Add your GitHub Pages link here:
-
-https://yourusername.github.io/portfolio/
-
 ## Author
 
 Priyanshi Jain
 
 - LinkedIn:
   https://www.linkedin.com/in/priyanshi-jain-5285563a7/
-
-- GitHub:
-  https://github.com/yourusername
+  
